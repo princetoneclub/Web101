@@ -5,8 +5,11 @@ Home of the Princeton Entrepreneurship Club's introductory web development cours
 ---
 
 ### Fall 2014
-#### Collin Stedman
-#### Quan Zhou
+Instructors:
+ * Collin Stedman
+ * Quan Zhou
+ * Frank Jiang
+ * Michael Perel
 
 This Repository contains two folders:
  * Intro Site - two didactive webpages that teaches basic HTML and CSS elements.
